@@ -1,1 +1,4 @@
 prazdny novy subor
+uprava server strana
+
+novy text
