@@ -1,4 +1,5 @@
 prazdny novy subor
 uprava lokal strana
+novy riadok
 
 novy text
