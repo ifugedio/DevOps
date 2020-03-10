@@ -1,20 +1,4 @@
 # DevOps
 DevOps academy
 New repository
-
-## Lists
-
-Unordered
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
+https://docs.google.com/document/d/1zaIei3bFETGzmSsZK_E93Oy1cQ5a2hKip5U1uVxl0lU/edit#heading=h.x92uwwl11s7e
